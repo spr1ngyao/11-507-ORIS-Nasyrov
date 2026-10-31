@@ -1,0 +1,7 @@
+﻿{
+  "Server": {
+    "host": "localhost",
+    "port": "5000",
+    "path": "catalog"
+  }
+}
